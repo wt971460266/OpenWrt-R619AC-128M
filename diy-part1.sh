@@ -24,3 +24,4 @@ echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 git clone https://github.com/sirpdboy/luci-app-ddns-go.git package/ddns-go
 git clone https://github.com/sirpdboy/luci-app-autotimeset package/luci-app-autotimeset
 git clone https://github.com/sbwml/luci-app-alist package/alist
+git clone https://github.com/immortalwrt/openwrt-gowebdav.git package/luci-app-gowebdav
